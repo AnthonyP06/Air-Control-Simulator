@@ -19,4 +19,4 @@ How can I use this simulator ?
 
 Miscellaneous
 -------------
-This project might contains bugs, it is not a steady version and cannot be used for a commercial use. It is no more than a study project.
+This project might contain bugs, it is not a steady version and cannot be used for a commercial use. It is no more than a study project.
